@@ -16,7 +16,6 @@ et de mettre en autologon la session de l'utilisateur qui a l'instance WSL Linux
 
 # USAGE:
 
-
   wslinit.cmd permet le demarrage des daemon WSL (Windows Subsytem Linux)
   
   usage:
@@ -27,3 +26,4 @@ et de mettre en autologon la session de l'utilisateur qui a l'instance WSL Linux
   [-h] [--help]   = cet aide.
   
   par défaut, la valeur de l'init est 3
+  
