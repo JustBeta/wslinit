@@ -21,10 +21,14 @@ et de mettre en autologon la session de l'utilisateur qui a l'instance WSL Linux
   usage:
   
   wslinit.cmd [level] [-s] [--status]
-  wslinit.cmd [-h] [--help]
-  [level] = un entier de 0 a 5 qui defini l'init du WSL
-  [-s] [--status] = etat des daemons de l'init choisi
-  [-h] [--help]   = cet aide.
   
+  wslinit.cmd [-h] [--help]
+  
+  [level] = un entier de 0 a 5 qui defini l'init du WSL
+  
+  [-s] [--status] = etat des daemons de l'init choisi
+  
+  [-h] [--help]   = cet aide.
+    
   par défaut, la valeur de l'init est 3
   
